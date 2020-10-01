@@ -83,7 +83,7 @@
       <div class="modal-body">
         
 
-        <embed type="video/webm" src="https://youtu.be/Kl_tpj-Qo-A" width="100%" height="auto" title="get token facebook video">
+        <embed type="video/webm" src="https://m.youtube.com/watch?feature=youtu.be&v=Kl_tpj-Qo-A" width="100%" height="auto" title="get token facebook video">
       </div>
       
     </div>

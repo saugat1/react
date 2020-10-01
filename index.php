@@ -81,9 +81,9 @@
         </button>
       </div>
       <div class="modal-body">
-        <iframe src="https://youtu.be/Kl_tpj-Qo-A" frameborder="0" title="get token facebook video" width="100%" height="auto">
+        <embed src="https://youtu.be/Kl_tpj-Qo-A" title="get token facebook video" width="100%" height="auto">
 
-        </iframe>
+        </embed>
       </div>
       
     </div>
